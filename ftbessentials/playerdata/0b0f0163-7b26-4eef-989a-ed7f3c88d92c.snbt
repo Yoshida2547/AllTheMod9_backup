@@ -1,0 +1,13 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "allthemodium:mining", x: 4066, y: 253, z: 1133, time: 1711312889680L, xRot: 32.699677f, yRot: 118.50027f }
+	recording: "none"
+	teleport_history: [ ]
+	homes: {
+		home: { dim: "allthemodium:mining", x: 4070, y: 253, z: 1126, time: 1710446718491L, xRot: 46.500122f, yRot: 166.65007f }
+	}
+	kit_use_times: { }
+}

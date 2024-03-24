@@ -1,0 +1,164 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1711316440609L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 254, z: 69, time: 1710415606672L }
+			{ x: 254, z: 71, time: 1710496215389L }
+			{ x: 255, z: 70, time: 1710415606672L, force_loaded: 1711322082636L }
+			{ x: 253, z: 71, time: 1710496215389L }
+			{ x: 253, z: 69, time: 1710496215389L }
+			{ x: 253, z: 70, time: 1710496215389L }
+			{ x: 255, z: 69, time: 1710415606672L }
+			{ x: 219, z: 41, time: 1710845648881L, force_loaded: 1710845738985L }
+			{ x: 254, z: 70, time: 1710415606672L, force_loaded: 1711322082637L }
+			{ x: 255, z: 71, time: 1710496215389L }
+		]
+		"allthemodium:the_beyond": [
+			{ x: 286, z: -95, time: 1711098818448L }
+			{ x: 282, z: -94, time: 1711098818449L }
+			{ x: 285, z: -92, time: 1711098818449L }
+			{ x: 284, z: -94, time: 1711098818449L }
+			{ x: 286, z: -93, time: 1711098818449L }
+			{ x: 283, z: -92, time: 1711098818449L }
+			{ x: 282, z: -96, time: 1711098818449L }
+			{ x: 285, z: -96, time: 1711098818448L }
+			{ x: 283, z: -95, time: 1711098818448L }
+			{ x: 286, z: -94, time: 1711098818448L }
+			{ x: 285, z: -95, time: 1711098818448L }
+			{ x: 285, z: -94, time: 1711098818448L, force_loaded: 1711124599423L }
+			{ x: 285, z: -93, time: 1711098818448L }
+			{ x: 286, z: -96, time: 1711098818448L }
+			{ x: 283, z: -94, time: 1711098818448L }
+			{ x: 284, z: -95, time: 1711098818449L }
+			{ x: 283, z: -93, time: 1711098818448L }
+			{ x: 284, z: -92, time: 1711098818448L }
+			{ x: 283, z: -96, time: 1711098818448L }
+			{ x: 282, z: -95, time: 1711098818449L }
+			{ x: 286, z: -92, time: 1711098818449L }
+			{ x: 282, z: -92, time: 1711098818448L }
+			{ x: 284, z: -93, time: 1711098818449L }
+			{ x: 282, z: -93, time: 1711098818449L }
+			{ x: 284, z: -96, time: 1711098818449L }
+		]
+		"hyperbox:649d1fea-ef62-4429-a87b-075eca368eae/iron": [{ x: 0, z: 0, time: 1711090682395L, force_loaded: 1711305926301L }]
+		"allthemodium:mining": [
+			{ x: 255, z: 70, time: 1710486304987L, force_loaded: 1710486320614L }
+			{ x: 252, z: 68, time: 1710494176982L }
+			{ x: 253, z: 74, time: 1710853807439L }
+			{ x: 254, z: 71, time: 1710486304986L, force_loaded: 1710486306640L }
+			{ x: 255, z: 71, time: 1710486304987L }
+			{ x: 254, z: 70, time: 1710486304987L, force_loaded: 1710486306644L }
+			{ x: 242, z: 66, time: 1711147817361L, force_loaded: 1711147934551L }
+			{ x: 253, z: 71, time: 1710486304987L, force_loaded: 1710486306645L }
+			{ x: 253, z: 70, time: 1710486304987L, force_loaded: 1710486306645L }
+			{ x: 254, z: 74, time: 1710853807439L }
+			{ x: 257, z: 70, time: 1710622805407L }
+			{ x: 256, z: 72, time: 1710622805406L }
+			{ x: 252, z: 69, time: 1710486304987L }
+			{ x: 257, z: 71, time: 1710622805406L }
+			{ x: 252, z: 72, time: 1710705134230L, force_loaded: 1710705147804L }
+			{ x: 254, z: 73, time: 1710853807439L, force_loaded: 1710853814609L }
+			{ x: 253, z: 73, time: 1710705134230L, force_loaded: 1710853808896L }
+			{ x: 252, z: 73, time: 1710705134230L }
+			{ x: 253, z: 69, time: 1710486304987L }
+			{ x: 254, z: 69, time: 1710486304987L }
+			{ x: 253, z: 72, time: 1710614221165L, force_loaded: 1710614222734L }
+			{ x: 254, z: 72, time: 1710614221434L, force_loaded: 1710614222734L }
+			{ x: 255, z: 72, time: 1710622805406L }
+			{ x: 255, z: 69, time: 1710486304987L }
+			{ x: 256, z: 71, time: 1710622805407L }
+			{ x: 252, z: 70, time: 1710486304987L }
+			{ x: 243, z: 66, time: 1711147817108L, force_loaded: 1711147934197L }
+			{ x: 253, z: 68, time: 1710530368263L }
+			{ x: 252, z: 74, time: 1710853807439L }
+			{ x: 254, z: 68, time: 1710601425850L }
+			{ x: 257, z: 72, time: 1710622805407L }
+			{ x: 256, z: 70, time: 1710622805406L }
+			{ x: 252, z: 71, time: 1710486304987L, force_loaded: 1710705147804L }
+		]
+		"hyperbox:649d1fea-ef62-4429-a87b-075eca368eae/inferium_farm": [{ x: 0, z: 0, time: 1711304312683L, force_loaded: 1711304313751L }]
+		"minecraft:the_nether": [
+			{ x: 17, z: 8, time: 1710416592049L, force_loaded: 1710416594929L }
+			{ x: 16, z: 8, time: 1710416592049L, force_loaded: 1710416594928L }
+			{ x: 16, z: 7, time: 1710416592049L, force_loaded: 1710416594929L }
+			{ x: 17, z: 7, time: 1710416592049L, force_loaded: 1710416594929L }
+		]
+		"minecraft:the_end": [
+			{ x: 71, z: 34, time: 1710526003565L }
+			{ x: 73, z: 34, time: 1710526003566L }
+			{ x: 70, z: 32, time: 1710526003565L }
+			{ x: 72, z: 34, time: 1710526003565L }
+			{ x: 70, z: 34, time: 1710526003565L }
+			{ x: 72, z: 32, time: 1710522781804L, force_loaded: 1710522786756L }
+			{ x: 72, z: 33, time: 1710526003565L }
+			{ x: 71, z: 33, time: 1710526003565L }
+			{ x: 73, z: 32, time: 1710526003565L }
+			{ x: 70, z: 33, time: 1710526003565L }
+			{ x: 73, z: 33, time: 1710526003565L }
+			{ x: 71, z: 32, time: 1710522784253L, force_loaded: 1710522785056L }
+		]
+	}
+	member_data: {
+		2812170a-f0db-42b6-b50d-02e3e497c783: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		c3cab00a-5585-4b74-96b5-fd0b9fb4d1e7: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		cbac0670-4e12-4284-9ef0-177af08c569b: {
+			original_claims: {
+				"minecraft:overworld": [
+					{ x: 255, z: 69 }
+					{ x: 254, z: 71 }
+					{ x: 255, z: 70 }
+					{ x: 253, z: 71 }
+					{ x: 254, z: 70 }
+					{ x: 253, z: 70 }
+					{ x: 255, z: 71 }
+					{ x: 253, z: 69 }
+					{ x: 254, z: 69 }
+				]
+				"minecraft:the_nether": [
+					{ x: 16, z: 8 }
+					{ x: 16, z: 7 }
+					{ x: 17, z: 7 }
+					{ x: 17, z: 8 }
+				]
+			}
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		649d1fea-ef62-4429-a87b-075eca368eae: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		0b0f0163-7b26-4eef-989a-ed7f3c88d92c: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		c7a25f17-e56a-4b9a-a763-e3d043948ab0: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+	prevented_access: {
+		ec5b5875-ebb5-4b47-833b-0de37ac9e6d7: {
+			name: "[IF]"
+			when: 1711322110732L
+		}
+		ce6c3b8d-11ba-4b32-90d5-e5d30167fca7: {
+			name: "[QuarryPlus]"
+			when: 1710764280818L
+		}
+	}
+}

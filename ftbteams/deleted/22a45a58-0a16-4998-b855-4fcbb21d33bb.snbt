@@ -1,0 +1,35 @@
+{
+	id: "22a45a58-0a16-4998-b855-4fcbb21d33bb"
+	type: "party"
+	owner: "cbac0670-4e12-4284-9ef0-177af08c569b"
+	ranks: {
+		649d1fea-ef62-4429-a87b-075eca368eae: "invited"
+		0b0f0163-7b26-4eef-989a-ed7f3c88d92c: "invited"
+		cbac0670-4e12-4284-9ef0-177af08c569b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7C59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710415847256L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Yoshida2547\"}]}" }
+		{ from: "cbac0670-4e12-4284-9ef0-177af08c569b", date: 1710415955884L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"tannyBiggaga\"}]}" }
+		{ from: "cbac0670-4e12-4284-9ef0-177af08c569b", date: 1710416040222L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PuPY50\"}]}" }
+	]
+	extra: { }
+}
